@@ -1,6 +1,6 @@
 ### Notation
 
-I have made a new OptiX 7 implementation of SPCBPT at [here]([github.com](https://github.com/ssufujia/SPCBPT-OptiX7)). It is much more faster, easier to compile and straight forward to read, I would recommend to check that version to get a better understanding of SPCBPT. 
+I have made a new OptiX 7 implementation of SPCBPT at [here](https://github.com/ssufujia/SPCBPT-OptiX7). It is much more faster, easier to compile and straight forward to read, I would recommend to check that version to get a better understanding of SPCBPT. 
 
 -----------------------------
 
