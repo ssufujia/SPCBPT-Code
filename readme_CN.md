@@ -1,3 +1,9 @@
+### 注意
+
+我已经在[这里]([github.com](https://github.com/ssufujia/SPCBPT-OptiX7))提供了一份SPCBPT的OptiX7的实现，它性能更好，更容易编译，更容易阅读，我推荐它作为了解SPCBPT的示例代码。
+
+----
+
 An unstable SPCBPT code
 
 需求：
